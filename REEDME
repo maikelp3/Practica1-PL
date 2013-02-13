@@ -1,0 +1,15 @@
+  
+  · Práctica 1:
+
+- Alumno: Miguel Pérez Bello - alu4117
+- Asignatura: Procesadores de Lenguajes
+- Curso: 3º Grado Ing. Informática
+- Itinerario: Computación
+
+- Descripción:
+    - Conversor de temperaturas de Celsius a Fahrenheir y viceversa.
+    
+- Ficheros:
+    - index.html: documento html en el que se aloja la descripción de la página en la que se aloja la aplicación.
+    - global.css: documento que aloja la descripción de la hoja de estilo (css) que utilizará nuestra página.
+    - temperature.js: fichero con la implementación del conversor en JavaScript.
